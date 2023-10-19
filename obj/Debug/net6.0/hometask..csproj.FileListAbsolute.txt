@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\hometask\bin\Debug\net6.0\hometask..exe
+C:\Users\User\source\repos\hometask\bin\Debug\net6.0\hometask..deps.json
+C:\Users\User\source\repos\hometask\bin\Debug\net6.0\hometask..runtimeconfig.json
+C:\Users\User\source\repos\hometask\bin\Debug\net6.0\hometask..dll
+C:\Users\User\source\repos\hometask\bin\Debug\net6.0\hometask..pdb
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..AssemblyInfoInputs.cache
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..AssemblyInfo.cs
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..dll
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\refint\hometask..dll
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..pdb
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\hometask..genruntimeconfig.cache
+C:\Users\User\source\repos\hometask\obj\Debug\net6.0\ref\hometask..dll
